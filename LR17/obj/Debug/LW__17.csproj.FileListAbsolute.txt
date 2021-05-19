@@ -1,0 +1,29 @@
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\bin\Debug\LW__17.exe.config
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\bin\Debug\LW__17.exe
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\bin\Debug\LW__17.pdb
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.Form1.resources
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.Properties.Resources.resources
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.csproj.GenerateResource.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.csproj.CoreCompileInputs.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.exe
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__17\obj\Debug\LW__17.pdb
+C:\Users\Евгений\Desktop\LW__17\bin\Debug\LW__17.exe.config
+C:\Users\Евгений\Desktop\LW__17\bin\Debug\LW__17.exe
+C:\Users\Евгений\Desktop\LW__17\bin\Debug\LW__17.pdb
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.csprojAssemblyReference.cache
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.Form1.resources
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.csproj.GenerateResource.cache
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.exe
+C:\Users\Евгений\Desktop\LW__17\obj\Debug\LW__17.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\bin\Debug\LW__17.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\bin\Debug\LW__17.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\bin\Debug\LW__17.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR17\obj\Debug\LW__17.pdb
